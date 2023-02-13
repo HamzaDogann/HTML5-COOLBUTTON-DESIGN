@@ -3,6 +3,6 @@
 
 /TR/ Sizler için animasyonlu buton tasarımı yaptım renklendirme ve boyutlandırma değerlerini ayarlayarak projelerinizde kullanabilirsiniz.
 
-/GEN/ Ich habe ein animiertes Button-Design für Sie erstellt, Sie können es in Ihren Projekten verwenden, indem Sie die Farb- und Größenwerte anpassen.
+/GER/ Ich habe ein animiertes Button-Design für Sie erstellt, Sie können es in Ihren Projekten verwenden, indem Sie die Farb- und Größenwerte anpassen.
 
 
